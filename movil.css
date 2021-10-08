@@ -1,0 +1,48 @@
+#right-side {
+    display: inline;
+    float: left;
+    text-align: right;
+}
+
+#profile-pic {
+    left: 0;
+    float: left;
+    width: 500px;
+}
+
+#profile-name {
+    margin-left: 800px;
+    margin-top: 100px;
+    color: white;
+}
+
+#profilepic {
+    height: 500px;
+    width: 500px;
+    border-radius: 500px;
+    ;
+}
+
+#arroba {
+    margin-left: 800px;
+    margin-top: 200px;
+    color: white;
+}
+
+#icons {
+    margin-left: 8cm;
+    margin-top: 2cm;
+}
+
+#icon1 {
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+
+#icon2 {
+    margin-right: 2cm;
+}
+
+body {
+    background: black;
+}
